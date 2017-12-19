@@ -17,9 +17,6 @@ then Enter the file you want to decrypt
 then The encrypted file will then be decrypted
 Note: When you enter an error key, the file will not be decrypted
 
-# Why encrypt File !!! :
-
-
 # what news !?!
 
 1 - Speed of encryption
@@ -33,4 +30,5 @@ Note: When you enter an error key, the file will not be decrypted
 
 # Contact me :
 Fb : Lamani fodil hani
+
 youtube : www.youtube.com/c/منضمةالهكرالعربية1
