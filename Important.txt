@@ -1,0 +1,14 @@
+[+] when you try to decode the file , make sure that you have the 
+correct password , because if you enter the incorrect password for decode
+the file , the file will not be able to decode again :) , its mean you cant
+recover your file again :(
+
+[!] but i have good solution , when you enter the password for decode
+whatever its correct or incorrect , the tool will copy the file to : 
+"origine-file" ( in cry-coder-master )
+so when you need to recover your file , but you enter the incorrect password 
+(key), Go to : "original-file" ( in cry-coder-master ) and try to decode 
+The file that you found there, because it is the file that can be decode again
+
+[+] That's it, the tool is under development.
+ if you have any problem contact me : Facebook : Lamani Fodil Hani
